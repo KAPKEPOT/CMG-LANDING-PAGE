@@ -1,0 +1,8 @@
+# public/robots.txt
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /private/
+
+Sitemap: https://cipher-mt5.com/sitemap.xml
