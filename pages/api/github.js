@@ -10,7 +10,7 @@ export default async function handler(req, res) {
   try {
     // Fetch GitHub repo data
     const response = await fetch(
-      'https://api.github.com/repos/yourusername/cipher-mt5-gateway',
+      'https://api.github.com/repos/KAPKEPOT/CMG',
       {
         headers: {
           'Accept': 'application/vnd.github.v3+json',
