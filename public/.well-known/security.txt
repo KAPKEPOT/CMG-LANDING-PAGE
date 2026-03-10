@@ -1,1 +1,8 @@
-
+# public/.well-known/security.txt
+Contact: mailto:security@cipher-mt5.com
+Expires: 2025-12-31T23:59:59.000Z
+Encryption: https://cipher-mt5.com/pgp-key.txt
+Acknowledgments: https://cipher-mt5.com/hall-of-fame
+Preferred-Languages: en
+Canonical: https://cipher-mt5.com/.well-known/security.txt
+Policy: https://cipher-mt5.com/security-policy
